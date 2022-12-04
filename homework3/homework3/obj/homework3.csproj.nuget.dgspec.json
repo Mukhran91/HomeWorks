@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mukhran/Desktop/HomeWorks/HomeWork_2/task1/ConsoleApp3/ConsoleApp3.csproj": {}
+    "/home/mukhran/Desktop/HomeWorks/homework3/homework3/homework3.csproj": {}
   },
   "projects": {
-    "/home/mukhran/Desktop/HomeWorks/HomeWork_2/task1/ConsoleApp3/ConsoleApp3.csproj": {
+    "/home/mukhran/Desktop/HomeWorks/homework3/homework3/homework3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mukhran/Desktop/HomeWorks/HomeWork_2/task1/ConsoleApp3/ConsoleApp3.csproj",
-        "projectName": "ConsoleApp3",
-        "projectPath": "/home/mukhran/Desktop/HomeWorks/HomeWork_2/task1/ConsoleApp3/ConsoleApp3.csproj",
+        "projectUniqueName": "/home/mukhran/Desktop/HomeWorks/homework3/homework3/homework3.csproj",
+        "projectName": "homework3",
+        "projectPath": "/home/mukhran/Desktop/HomeWorks/homework3/homework3/homework3.csproj",
         "packagesPath": "/home/mukhran/.nuget/packages/",
-        "outputPath": "/home/mukhran/Desktop/HomeWorks/HomeWork_2/task1/ConsoleApp3/obj/",
+        "outputPath": "/home/mukhran/Desktop/HomeWorks/homework3/homework3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mukhran/.nuget/NuGet/NuGet.Config"
